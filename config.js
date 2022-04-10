@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'KahfzXzy'
+global.owner = ['62895338334350','62895338334450','62895338334350']
+global.pemilik = ['62895338334350']
+global.premium = ['62895338334450']
+global.pengguna = 'Yuuzy_'
 global.botnma = 'Lycho Bot'
 global.harga = '10k'
 global.atasreply = 'Subscribe' //BUAT REPLAY DI ATAS NYA ADA TEXT
